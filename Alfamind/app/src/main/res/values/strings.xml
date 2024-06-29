@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Alfamind</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_home_screen">HomeScreen</string>
+    <string name="title_activity_profile_screen">ProfileScreen</string>
+    <string name="title_activity_topup_screen">TopupScreen</string>
+</resources>
